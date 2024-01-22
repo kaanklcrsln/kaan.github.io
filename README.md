@@ -7,11 +7,11 @@
 
 
 ## Work Experience
-**Data Analyst @ Buzzpire LTD (_January 2024 - Present_)**
+**Data Analyst | Buzzpire LTD (_January 2024 - Present_)**
 - Social media consultant and data analysis program coder specializing in optimizing business strategies.
 - Identified and resolved inefficiencies in production data pipeline, positively impacting 70% of active accounts. Successfully redeveloped loan originations model, resulting in a 50% performance improvement and saving potential losses. 
 
-**Visual Effect Artist @ Social Media Applications (_August 2018 - Present_)**
+**Visual Effect Artist | Social Media Applications (_August 2018 - Present_)**
 - Utilizing Adobe's entire suite of programs, I design posters, 3D models, visually enhanced projects, video compositions, and edits, as well as VFX/CGI-infused video clips.
 - I provide remote training to over 50 individuals as a freelance instructor, teaching Adobe applications through virtual methods.
 - My expertise lies in creating visually stunning and dynamic content, while also sharing my knowledge to empower others in mastering Adobe tools.
