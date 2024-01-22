@@ -1,4 +1,4 @@
-# Data Scientist
+# Engineering Student Engaged in Data Science
 
 #### Technical Skills:  QGIS, Python, R, JavaScript 
 
