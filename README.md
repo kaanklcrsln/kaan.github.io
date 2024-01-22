@@ -22,5 +22,7 @@ Leaflens is an artificial intelligence application that analyzes the health of p
 Technologies Used: Python, JavaScript, HTML, Google Cloud
 
 Project Video: [Project Presentation Link](https://drive.google.com/file/d/1lTZXEryJGCmsJUC-98ttyJio3MIQOpxT/view?usp=sharing)
+![Presentation](/assets/leaflens.png)
+![Working Principle](/assets/leaflens2.png)
 
 - [My Data Science Projects on GitHub](github.com/kaanklcrsln)
